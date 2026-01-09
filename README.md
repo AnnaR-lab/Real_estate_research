@@ -15,3 +15,6 @@ The goal is to identify promising real estate segments and high-demand seasons i
 Archive from Yandex Real Estate containing apartment sale listings in Saint Petersburg and the Leningrad Region over several years. The data is stored in the real_estate schema. Work was performed using SQL via DBeaver.
 For a detailed description of the tables and columns, see [Data Description](data_description.md).
 
+### Results
+see [Results](analysis_results.md)
+
