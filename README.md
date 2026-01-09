@@ -12,9 +12,9 @@ The goal is to identify promising real estate segments and high-demand seasons i
 
 ## Tasks
 
-1. **Create dashboard** with historical real estate data activity results: see [Open Dashboard](open_dashboard).  
-2. **Analyze listing exposure time** to identify real estate segments with the fastest sales cycles: see [SQL Queries](queries).  
-3. **Identify seasonal trends** to determine periods of high real estate activity: see [SQL Queries](queries).
+1. **Create dashboard** with historical real estate data activity results: see [Open Dashboard](https://datalens.yandex/n5tkllwa8okk8).  
+2. **Analyze listing exposure time** to identify real estate segments with the fastest sales cycles: see [SQL Queries](Task_1.sql).  
+3. **Identify seasonal trends** to determine periods of high real estate activity: see [SQL Queries](Task_2.sql).
 
 ---
 
